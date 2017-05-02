@@ -1,4 +1,4 @@
-# Ract Youtube Search
+# React Youtube Search
 
 === Getting Started =====
 
